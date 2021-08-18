@@ -1,5 +1,5 @@
 ---
-title: 'Homepage'
+title: 'Home - Delano Inspiration'
 meta_title: 'Hugo Serif Theme'
 description: "Serif is a modern business theme for Hugo."
 intro_image: "images/illustrations/pointing.svg"
